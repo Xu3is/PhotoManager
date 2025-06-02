@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -42,9 +46,9 @@
               "Title": "DescriptionForm.cs",
               "DocumentMoniker": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\DescriptionForm.cs",
-              "ToolTip": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs*",
-              "RelativeToolTip": "PhotoManager\\DescriptionForm.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ToolTip": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs",
+              "RelativeToolTip": "PhotoManager\\DescriptionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T00:05:49.44Z",
               "EditorCaption": ""
@@ -55,8 +59,8 @@
               "Title": "DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\DescriptionForm.cs",
-              "ToolTip": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "PhotoManager\\DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PhotoManager\\DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T00:05:47.711Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
@@ -96,10 +100,6 @@
               "RelativeToolTip": "PhotoManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T23:56:40.539Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
