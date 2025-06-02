@@ -1,0 +1,9 @@
+Z:\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe.config
+Z:\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe
+Z:\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.pdb
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.AssemblyReference.cache
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.Properties.Resources.resources
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.GenerateResource.cache
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.CoreCompileInputs.cache
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe
+Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.pdb

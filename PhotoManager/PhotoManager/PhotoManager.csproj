@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DescriptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DescriptionForm.Designer.cs">
+      <DependentUpon>DescriptionForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Photo.cs" />
     <Compile Include="PhotoAlbum.cs" />
     <Compile Include="PhotoAlbumForm.cs">
