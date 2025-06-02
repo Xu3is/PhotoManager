@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\PhotoManager\\PhotoManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|z:\\photomanager\\photomanager\\photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|z:\\photomanager\\photomanager\\photomanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\Photo.cs",
+              "RelativeDocumentMoniker": "PhotoManager\\Photo.cs",
+              "ToolTip": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\Photo.cs",
+              "RelativeToolTip": "PhotoManager\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:57:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "Z:\\PhotoManager\\PhotoManager\\PhotoManager\\Form1.cs",
               "RelativeDocumentMoniker": "PhotoManager\\Form1.cs",
