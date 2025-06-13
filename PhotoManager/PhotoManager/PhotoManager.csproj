@@ -60,6 +60,12 @@
     <Compile Include="PhotoAlbumForm.Designer.cs">
       <DependentUpon>PhotoAlbumForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhotoShowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhotoShowForm.Designer.cs">
+      <DependentUpon>PhotoShowForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

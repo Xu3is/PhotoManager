@@ -9,6 +9,8 @@ namespace PhotoManager
         private Button addPhotoButton;
         private Button removePhotoButton;
         private Button sortByDateButton;
+        private Button showPhotoButton;
+
         public PhotoAlbumForm()
         {
             this.Text = "Управление фотографиями";
@@ -17,6 +19,7 @@ namespace PhotoManager
             CreateControls();
             photoAlbum = new PhotoAlbum(listView);
         }
+
         private void CreateControls()
         {
             listView = new ListView
@@ -29,6 +32,7 @@ namespace PhotoManager
             listView.Columns.Add("Путь", 300);
             listView.Columns.Add("Описание", 200);
             listView.Columns.Add("Дата съёмки", 100);
+
             addPhotoButton = new Button
             {
                 Location = new System.Drawing.Point(10, 370),
@@ -36,6 +40,7 @@ namespace PhotoManager
                 Size = new System.Drawing.Size(100, 25)
             };
             addPhotoButton.Click += (sender, e) => photoAlbum.AddPhoto();
+
             removePhotoButton = new Button
             {
                 Location = new System.Drawing.Point(120, 370),
@@ -43,6 +48,7 @@ namespace PhotoManager
                 Size = new System.Drawing.Size(100, 25)
             };
             removePhotoButton.Click += (sender, e) => photoAlbum.RemovePhoto();
+
             sortByDateButton = new Button
             {
                 Location = new System.Drawing.Point(230, 370),
@@ -50,10 +56,20 @@ namespace PhotoManager
                 Size = new System.Drawing.Size(120, 25)
             };
             sortByDateButton.Click += (sender, e) => photoAlbum.SortPhotosByDate();
+
+            showPhotoButton = new Button
+            {
+                Location = new System.Drawing.Point(430, 369),
+                Text = "Посмотреть фото",
+                Size = new System.Drawing.Size(150, 25)
+            };
+            showPhotoButton.Click += (sender, e) => photoAlbum.ShowPhoto();
+
             this.Controls.Add(listView);
             this.Controls.Add(addPhotoButton);
             this.Controls.Add(removePhotoButton);
             this.Controls.Add(sortByDateButton);
+            this.Controls.Add(showPhotoButton);
         }
     }
 }

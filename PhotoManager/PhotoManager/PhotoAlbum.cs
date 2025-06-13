@@ -91,6 +91,20 @@ namespace PhotoManager
             MessageBox.Show("Фото отсортированы по дате.");
         }
 
+        public void ShowPhoto()
+        {
+            if (listView.SelectedItems.Count == 0)
+            {
+                MessageBox.Show("Сначала выберите фото для просмотра.");
+                return;
+            }
+            var photoPath = listView.SelectedItems[0].SubItems[0].Text;
+            using (var photoShowForm = new PhotoShowForm(photoPath))
+            {
+                photoShowForm.ShowDialog();
+            }
+        }
+
         private string GetDescription()
         {
             using (var descriptionForm = new DescriptionForm())

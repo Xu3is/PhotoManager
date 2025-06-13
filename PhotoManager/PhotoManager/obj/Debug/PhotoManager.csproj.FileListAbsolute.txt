@@ -7,3 +7,12 @@ Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.Generate
 Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.CoreCompileInputs.cache
 Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe
 Z:\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.pdb
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe.config
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.pdb
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.Properties.Resources.resources
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe
+C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.pdb
