@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|c:\\users\\matvey\\desktop\\photomanager\\photomanager\\photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|c:\\users\\matvey\\desktop\\photomanager\\photomanager\\photomanager\\photoshowform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|c:\\users\\matvey\\desktop\\photomanager\\photomanager\\photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|c:\\users\\matvey\\desktop\\photomanager\\photomanager\\photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\descriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,45 +50,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PhotoShowForm.cs",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoShowForm.cs",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs*",
-              "RelativeToolTip": "PhotoManager\\PhotoShowForm.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs",
+              "RelativeToolTip": "PhotoManager\\PhotoShowForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T16:18:27.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PhotoShowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoShowForm.cs",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "PhotoManager\\PhotoShowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PhotoManager\\PhotoShowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T16:18:25.739Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PhotoAlbumForm.cs",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbumForm.cs",
               "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeToolTip": "PhotoManager\\PhotoAlbumForm.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T00:08:54.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "PhotoAlbumForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbumForm.cs",
@@ -104,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "DescriptionForm.cs",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\DescriptionForm.cs",
@@ -117,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DescriptionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\DescriptionForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\DescriptionForm.cs",
@@ -129,20 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PhotoAlbum.cs",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbum.cs",
               "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
               "RelativeToolTip": "PhotoManager\\PhotoAlbum.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAiwFgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T23:59:46.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Photo.cs",
               "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\Photo.cs",
               "RelativeDocumentMoniker": "PhotoManager\\Photo.cs",
@@ -152,28 +148,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T23:57:12.091Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PhotoShowForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.Designer.cs",
-              "RelativeDocumentMoniker": "PhotoManager\\PhotoShowForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Matvey\\Desktop\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoShowForm.Designer.cs",
-              "RelativeToolTip": "PhotoManager\\PhotoShowForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:18:40.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

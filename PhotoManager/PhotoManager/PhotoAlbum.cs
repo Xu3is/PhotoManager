@@ -77,10 +77,14 @@ namespace PhotoManager
                 MessageBox.Show("Сначала выберите фото для удаления.");
                 return;
             }
-            var photoPath = listView.SelectedItems[0].SubItems[0].Text;
-            photos.RemoveAll(p => p.Path == photoPath);
-            LoadPhotos();
-            MessageBox.Show("Фото удалено.");
+
+            int selectedIndex = listView.SelectedIndices[0];
+            if (selectedIndex >= 0 && selectedIndex < photos.Count)
+            {
+                photos.RemoveAt(selectedIndex);
+                LoadPhotos();
+                MessageBox.Show("Фото удалено.");
+            }
         }
 
         public void SortPhotosByDate()

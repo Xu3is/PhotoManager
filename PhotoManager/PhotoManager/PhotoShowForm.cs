@@ -11,7 +11,6 @@ namespace PhotoManager
 
         public PhotoShowForm(string imagePath)
         {
-            Text = "Просмотр фотографии";
             Size = new Size(800, 600);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
