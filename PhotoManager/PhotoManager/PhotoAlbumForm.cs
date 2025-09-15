@@ -5,7 +5,7 @@ namespace PhotoManager
     public partial class PhotoAlbumForm : Form
     {
         private PhotoAlbum photoAlbum;
-        private ListView listView;
+        public ListView listView;
         private Button addPhotoButton;
         private Button removePhotoButton;
         private Button sortByDateButton;

@@ -5,10 +5,10 @@ using System.Linq;
 
 namespace PhotoManager
 {
-    partial class PhotoAlbum
+     public partial class PhotoAlbum
     {
         private List<Photo> photos = new List<Photo>();
-        private ListView listView;
+        public ListView listView;
 
         public PhotoAlbum(ListView listView)
         {

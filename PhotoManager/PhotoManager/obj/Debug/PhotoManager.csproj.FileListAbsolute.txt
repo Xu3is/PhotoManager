@@ -16,3 +16,13 @@ C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoMa
 C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.CoreCompileInputs.cache
 C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe
 C:\Users\Matvey\Desktop\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.pdb
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe.config
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.pdb
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.AssemblyReference.cache
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe.config
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.Properties.Resources.resources
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.GenerateResource.cache
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.csproj.CoreCompileInputs.cache
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.exe
+C:\учеба\PhotoManager\PhotoManager\PhotoManager\obj\Debug\PhotoManager.pdb
