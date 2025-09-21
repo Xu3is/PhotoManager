@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\",
+  "WorkspaceRootPath": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\photomanager\\photomanager\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{734A6B36-6FA3-44CA-9775-6A7C9F9D8EFA}|automateTesting\\automateTesting.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\photomanager\\photomanager\\automatetesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734A6B36-6FA3-44CA-9775-6A7C9F9D8EFA}|automateTesting\\automateTesting.csproj|solutionrelative:automatetesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\automateTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "automateTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\automateTesting\\UnitTest1.cs",
+              "RelativeToolTip": "automateTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAAwPIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:16:06.452Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PhotoAlbumForm.cs",
-              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbumForm.cs",
-              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeToolTip": "PhotoManager\\PhotoAlbumForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T06:39:38.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T06:39:38.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PhotoAlbumForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbumForm.cs",
-              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbumForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "PhotoManager\\PhotoAlbumForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T06:39:35.403Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-09-15T06:39:35.403Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\UnitTestProject\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\UnitTestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\UnitTestProject\\UnitTest1.cs",
               "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAhwDwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wEgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T06:32:00.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PhotoAlbum.cs",
-              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
+              "DocumentMoniker": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
               "RelativeDocumentMoniker": "PhotoManager\\PhotoAlbum.cs",
-              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
+              "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\PhotoManager\\PhotoAlbum.cs",
               "RelativeToolTip": "PhotoManager\\PhotoAlbum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T13:09:35.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T13:09:35.025Z"
             }
           ]
         }
