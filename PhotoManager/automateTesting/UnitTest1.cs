@@ -106,7 +106,6 @@ namespace Flauitests
         {
             AddPhotoWithDetails(_mainWindow, orkFileName, orkDescription, orkDate);
 
-            Thread.Sleep(500);
             var addMessageBox = _mainWindow.ModalWindows.FirstOrDefault();
 
             var addMessageText = addMessageBox.FindFirstDescendant(_cf.ByAutomationId("65535"));
@@ -116,7 +115,7 @@ namespace Flauitests
             addMessageOkButton.Click();
 
             var listView = _mainWindow.FindFirstDescendant(_cf.ByControlType(FlaUI.Core.Definitions.ControlType.List)).AsListBox();
-            var photoItem = listView.Items.FirstOrDefault(i => i.FindAllChildren().Any(c => c.Name.Contains("гном")));
+            var photoItem = listView.Items.FirstOrDefault(i => i.FindAllChildren().Any(c => c.Name.Contains("орк")));
             photoItem.Click();
 
             var removePhotoButton = _mainWindow.FindFirstDescendant(_cf.ByName("Удалить фото")).AsButton();

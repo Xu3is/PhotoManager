@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{C29A755F-0B93-4852-AEF4-2CBBB954DAF9}|PhotoManager\\PhotoManager.csproj|solutionrelative:photomanager\\photoshowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\photomanager\\photomanager\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA62F66-4918-47FD-BF74-C2876C8B0B4C}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAuwFUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T14:06:55.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T14:06:55.023Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "PhotoManager\\PhotoShowForm.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T13:15:42.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T13:15:42.092Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "PhotoManager\\PhotoAlbumForm.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T13:15:40.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T13:15:40.94Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "PhotoManager\\Photo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T13:15:37.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T13:15:37.731Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "PhotoManager\\DescriptionForm.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA4wDYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T13:15:36.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T13:15:36.665Z"
             },
             {
               "$type": "Document",
@@ -109,7 +104,7 @@
               "RelativeDocumentMoniker": "automateTesting\\UnitTest1.cs",
               "ToolTip": "C:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u043E\u043B\u0433\u0438\\PhotoManager\\PhotoManager\\automateTesting\\UnitTest1.cs",
               "RelativeToolTip": "automateTesting\\UnitTest1.cs",
-              "ViewState": "AgIAACcBAAAAAAAAAAAuwEQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwGgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T12:16:06.452Z",
               "EditorCaption": ""
